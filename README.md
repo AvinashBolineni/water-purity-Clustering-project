@@ -1,5 +1,4 @@
-# Clustring-
-Clustring 
+water purity Clustering project
 
 Classification of Drinking Water Quality Index and Identification of Significant Factors
 
